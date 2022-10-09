@@ -1,6 +1,6 @@
 module github.com/emitter-io/emitter
 
-go 1.17
+go 1.18
 
 require (
 	github.com/aws/aws-sdk-go v1.31.4 // indirect
@@ -42,7 +42,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6 // indirect
 	github.com/golang/protobuf v1.4.3 // indirect
-	github.com/google/flatbuffers v1.12.0 // indirect
+	github.com/google/flatbuffers v1.12.1 // indirect
 	github.com/jmespath/go-jmespath v0.3.0 // indirect
 	github.com/kelindar/process v0.0.0-20170730150328-69a29e249ec3 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
